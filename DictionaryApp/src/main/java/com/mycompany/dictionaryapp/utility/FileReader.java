@@ -19,7 +19,7 @@ public class FileReader {
     public static String[] split;
 
     public static Map<String, String> words() throws Exception {
-        String read = FileUtil.read("C:\\Users\\Acer\\Documents\\NetBeansProjects\\DictionaryApp\\words.txt");
+        String read = FileUtil.read("C:\\Workspace\\ProfessionalDictionaryApp\\DictionaryApp\\words.txt");
         filereader = new HashMap<>();
         split = read.split(",");
         String key = "";
