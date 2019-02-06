@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.dictionaryapp;
+package com.mycompany.dictionaryapp.main;
 
 import com.mycompany.dictionaryapp.utility.MenuHelper;
 
